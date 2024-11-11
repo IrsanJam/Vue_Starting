@@ -1,4 +1,4 @@
-<script>
+<script scope>
 export default {
   data() {
     return {
